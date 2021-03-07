@@ -1,0 +1,3 @@
+imageio==2.9.0
+infi.systray==0.1.12
+Send2Trash==1.5.0
